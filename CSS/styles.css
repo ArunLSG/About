@@ -72,7 +72,8 @@ a:hover{
 
 .mountain{
  padding: inherit; 
- width: auto;
+ width="25%"; 
+ height="50%";
 }
 
 .middle-container{
